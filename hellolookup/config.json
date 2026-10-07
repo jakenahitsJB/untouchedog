@@ -1,0 +1,21 @@
+{
+    "input": "input.txt",
+    "hellolookup_api_key": "ec8a0dbbdaeaf5ed7861f9bec042473c8d880e23aa494541",
+    "proxy": "http://jrpq6ablqu:n74amcg4nj@v3-resi-us.myxproxy.com:10000",
+    "zestimate": true,
+    "threads": 50,
+    "ssn": true,
+    "dob": true,
+    "recovery_options": 
+    {
+        "enabled": true,
+        "options": 
+        {
+            "doordash": true,
+            "walmart": true,
+            "facebook": true,
+            "twitter": true,
+            "microsoft": true
+        }
+    }
+}

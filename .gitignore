@@ -1,0 +1,33 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Output directories & processed data
+parsed_output/
+parsed_output*/
+*.tmp
+*.log
+
+# Test artifacts and local dumps
+test_*.txt
+test_dumps/
+xxx_sample/
+verify_outputs.py
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
